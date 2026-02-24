@@ -9,6 +9,7 @@
 - context assembly -- at-will injection of existing resources (skills, connectors, urls, etc.) 🚀
 - multi-turn
 - regenerate/edit message/branching
+- triggers -- scheduled, event-based, intelligent 🚀
 - agentic loop 🚀
 - human-in-the-loop -- always ask vs auto-approve
 - ephemeral ui -- in-chat widgets (confirm button)
